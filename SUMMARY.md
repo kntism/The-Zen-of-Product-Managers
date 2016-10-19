@@ -6,6 +6,6 @@
 * [开发](chapter-3/README.md)
 * [运营](chapter-4/README.md)
 * [人](chapter-5/README.md)
-   * 思考
+   * [思考](chapter-5/Think.md)
 * [原则](chapter-6/README.md)
 
