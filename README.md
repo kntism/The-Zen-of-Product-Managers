@@ -26,3 +26,8 @@
 整个流程中各个角色负责的基本工作如下： 
  
 ![产品工作流程图解](/images/product-manager-workflow-2.jpg)
+
+## 联系我
+
+Mail ：loozsky[at]gmail.com
+wechat : Hnss_Lu
