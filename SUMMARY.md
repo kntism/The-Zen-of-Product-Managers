@@ -2,7 +2,7 @@
 
 * [概述](README.md)
 * [立项](chapter-1/README.md)
-   * 决策
+   * [决策](chapter-1/Decision.md)
 * [需求](chapter-2/README.md)
 * [开发](chapter-3/README.md)
    * [目标](chapter-3/Goal.md)
