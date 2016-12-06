@@ -5,7 +5,7 @@
    * [决策](chapter-1/Decision.md)
 * [3. 需求](chapter-2/README.md)
    * [价值](chapter-2/Value.md)
-* [开发](chapter-3/README.md)
+* [4. 开发](chapter-3/README.md)
    * [目标](chapter-3/Goal.md)
 * [运营](chapter-4/README.md)
 * [人](chapter-5/README.md)
