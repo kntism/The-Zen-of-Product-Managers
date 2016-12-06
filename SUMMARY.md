@@ -1,6 +1,6 @@
 # Summary
 
-* [概述](README.md)
+* [1. 概述](README.md)
 * [立项](chapter-1/README.md)
    * [决策](chapter-1/Decision.md)
 * [需求](chapter-2/README.md)
