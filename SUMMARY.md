@@ -7,7 +7,7 @@
 * [3. 需求](chapter-2/README.md)
   * [价值](chapter-2/Value.md)
 * [4. 开发](chapter-3/README.md)
-  * [目标](chapter-3/Goal.md)
+  * [策略](chapter-3/Strategy.md)
 * [5. 运营](chapter-4/README.md)
 * [6. 人](chapter-5/README.md)
   * [思考](chapter-5/Think.md)
