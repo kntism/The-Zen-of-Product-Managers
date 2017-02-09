@@ -8,6 +8,7 @@
   * [价值](chapter-2/Value.md)
 * [4. 开发](chapter-3/README.md)
   * [策略](chapter-3/Strategy.md)
+  * [设计](chapter-3/Design.md)
 * [5. 运营](chapter-4/README.md)
 * [6. 人](chapter-5/README.md)
   * [思考](chapter-5/Think.md)
