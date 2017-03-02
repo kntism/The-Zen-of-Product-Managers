@@ -26,7 +26,11 @@
 
 ![产品工作流程图解](/images/product-manager-workflow-2.jpg)
 
-## 联系我
+# 反馈问题
+
+如果你有什么建议或者新的经验分享可以通过[此链接](https://github.com/kntism/PMhub/issues)提交.
+
+# 联系我
 
 * Mail ：loozsky\[at\]gmail.com
 * Wechat : Hnss\_Lu
