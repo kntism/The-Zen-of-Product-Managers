@@ -1,4 +1,4 @@
-# PMhub
+# The Zen of Product Managers
 
 这是一个产品经理的使用指南，可能只是自我感觉的。
 
