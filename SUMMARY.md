@@ -20,3 +20,4 @@
 * [7. 原则](chapter-6/README.md)
   * [等级](chapter-6/Rank.md)
   * [激情](chapter-6/Passionate.md)
+  * [成功](chapter-6/cheng-gong.md)
